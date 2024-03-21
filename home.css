@@ -1,0 +1,39 @@
+body{
+    background-color: antiquewhite;
+}
+#intro-container{
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+}
+#intro-image{
+    padding: 30px;
+    margin-right: 50px;
+}
+#introduction{
+    display: flex;
+    justify-content: space-between;
+}
+#Description{
+    font-size: 65px;
+    color: #3A73DC;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 50px;
+}
+#Mission-Statement{
+    color: #AE0B14;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#Quote{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #A70CC2;
+}
