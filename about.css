@@ -1,0 +1,35 @@
+body{
+    background-color: antiquewhite;
+}
+#main-title{
+    color: #3A73DC;
+    margin: auto;
+    text-align: center;
+    padding: 2vw;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.secondary-title{
+    color: #3A73DC;
+    margin-left: 1vw;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 1vh;
+}
+p{
+    color: #AE0B14;
+    margin-left: 1vw;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#mindset, #background, #interests{
+    border: 3px;
+    border-radius: 15px;
+    border-color: #A70CC2;
+    border-style: solid;
+    margin-bottom: 1vh;
+    width: 90vw;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
