@@ -6,15 +6,21 @@ body{
     margin: auto;
     text-align: center;
     padding: 2vw;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .secondary-title{
     color: #3A73DC;
     margin-left: 1vw;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 1vh;
 }
 p{
     color: #AE0B14;
     margin-left: 1vw;
     font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 #mindset, #background, #interests{
     border: 3px;
