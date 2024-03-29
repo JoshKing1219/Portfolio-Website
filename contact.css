@@ -1,0 +1,29 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: #3A73DC;
+    margin: auto;
+    text-align: center;
+    padding: 2vw;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+label{
+    color: #AE0B14;
+}
+input, textarea{
+    width: 500px;
+}
+textarea{
+    height: 250px;
+}
+form{
+    margin: auto;
+    display: block;
+}
+.form-container{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
